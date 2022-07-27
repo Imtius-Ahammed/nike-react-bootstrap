@@ -1,14 +1,18 @@
 .bg-penguin{
-  background: linear-gradient(to bottom, #e6dada, #274046);
+  background-color:  #FAF1E6;
 }
 .bg-main{
-  background: linear-gradient(to bottom, #8e9eab, #eef2f3);
+  background: #FDFAF6;
 }
 .bg-footer{
   background: linear-gradient(to bottom, #e6dada, #274046);
 }
 .toast{
-   background-size: 10px;
+   width: 20em;
+   height: 7em;
+}
+.toast img{
+  width: 2em;
 }
 span{
   font-size: 70px;
@@ -20,4 +24,13 @@ span{
   border-bottom: 4px solid rgb(16, 44, 229);
   background-color: rgb(206, 196, 196);
 
+}
+.nav button{
+  border: 10px;
+}
+.navbar-toggler-icon{
+  width: 0.5em;
+  height: 0.5em;
+  border:none;
+ 
 }
