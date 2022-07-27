@@ -4,12 +4,21 @@
 .bg-main{
   background: #FDFAF6;
 }
+.bg-image{
+  background-color: #E8F6EF;
+}
+.bg-cardsec{
+  background-color:#F9F9F9;
+}
 .bg-footer{
   background: linear-gradient(to bottom, #e6dada, #274046);
 }
 .toast{
    width: 20em;
    height: 7em;
+}
+.card h3{
+  color: orange;
 }
 .toast img{
   width: 2em;
