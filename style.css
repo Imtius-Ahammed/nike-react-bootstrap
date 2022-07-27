@@ -1,0 +1,20 @@
+.bg-penguin{
+  background: linear-gradient(to bottom, #e6dada, #274046);
+}
+.bg-main{
+  background: linear-gradient(to bottom, #8e9eab, #eef2f3);
+}
+.bg-footer{
+  background: linear-gradient(to bottom, #e6dada, #274046);
+}
+span{
+  font-size: 70px;
+}
+.navbar-nav a{
+  font-size: 24px;
+}
+.navbar-nav a:hover{
+  border-bottom: 4px solid rgb(16, 44, 229);
+  background-color: rgb(206, 196, 196);
+
+}
