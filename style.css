@@ -7,6 +7,9 @@
 .bg-footer{
   background: linear-gradient(to bottom, #e6dada, #274046);
 }
+.toast{
+   background-size: 10px;
+}
 span{
   font-size: 70px;
 }
